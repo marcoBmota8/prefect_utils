@@ -1,6 +1,6 @@
 import os
 import hashlib
-def cache_file_based(task_context,task_parameters):
+def cache_file_based_fn(task_context,task_parameters):
     # Check if the result file exists
     if os.path.exists(task_parameters["result_file_path"]):
         # Compute the hash of the result file
