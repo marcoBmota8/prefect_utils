@@ -26,7 +26,7 @@ This package compiles a series of utils that come handy when deploying tasks and
 Features
 --------
 
-* TODO
+* Associated issue prefect: https://github.com/PrefectHQ/prefect/issues/9644 
 
 Credits
 -------
