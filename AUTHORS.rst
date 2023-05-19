@@ -10,4 +10,4 @@ Development Lead
 Contributors
 ------------
 
-*Nate Nowack <nate@prefect.io>
+* Nate Nowack <nate@prefect.io>
