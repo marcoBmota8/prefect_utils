@@ -9,7 +9,7 @@ def cache_constant(task_context, task_parameters):
     return 'dummy'
 
 
-def cache_file_based_fn_OG(task_context, task_parameters):
+def cache_file_based_fn(task_context, task_parameters):
     """
     Local file based cache function to be used in prefect @task and @ flow decorators in the cache_key_fn attribute.
 
